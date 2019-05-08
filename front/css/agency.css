@@ -60,22 +60,14 @@ section h3.section-subheading {
     }
 }
 
-
-/* 
-.btn {
+#propos {
     font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
     font-weight: 700;
-}
-
-.btn-xl {
     font-size: 18px;
     padding: 20px 40px;
-}
-
-.btn-primary {
     background-color: #f29400;
     border-color: #f29400;
-}*/
+}
 
 .btn-primary:active,
 .btn-primary:focus,
@@ -92,10 +84,15 @@ section h3.section-subheading {
 }
 
 .bouton {
-    width: 85px;
-    height: 85px;
+    width: 120px;
+    height: 120px;
     background: #f29400;
     border-radius: 100%;
+    font-size: 60px;
+}
+
+.bouton:hover {
+    background: #f0ac40;
 }
 
 ::-moz-selection {
