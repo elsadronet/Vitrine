@@ -92,6 +92,10 @@ section h3.section-subheading {
     border: 0px;
 }
 
+#slogan {
+    background-color: #ced4da;
+}
+
 .bouton:hover {
     background: #f0ac40;
 }
