@@ -1707,7 +1707,7 @@
                 backgroundColor: "#ffffff",
                 plotBorderColor: "#cccccc"
             },
-            title: { text: "Chart title", align: "center", margin: 15, widthAdjust: -44 },
+            title: { text: "", align: "center", margin: 15, widthAdjust: -44 },
             subtitle: { text: "", align: "center", widthAdjust: -44 },
             plotOptions: {},
             labels: { style: { position: "absolute", color: "#333333" } },
