@@ -78,6 +78,22 @@ video {
     border-color: #f29400;
 }
 
+#connexion {
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 700;
+    font-size: 17px;
+    padding: 10px 15px;
+    background-color: #f29400;
+    border-color: #f29400;
+}
+
+#projet1,
+#projet2,
+#stage1,
+#stage2 {
+    color: #f29400;
+}
+
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
